@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on an awesome project to support decision making on a governance level.
+- 🌱 I’m currently learning more about social innovation (as always).
+- 👯 I’m looking to collaborate on social impact projects.
+
 <!--
 **beezeebly/beezeebly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
